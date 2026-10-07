@@ -1,0 +1,16 @@
+{
+  "name": "fitplan-node-backend",
+  "version": "1.0.0",
+  "description": "FitPlan AI - Node.js Express API Gateway",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "cors": "^2.8.5",
+    "dotenv": "^18.0.6",
+    "express": "^4.19.2"
+  }
+}

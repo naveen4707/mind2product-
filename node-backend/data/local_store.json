@@ -1,0 +1,363 @@
+{
+  "profile": {
+    "id": "e1223b08-e488-4905-9189-62c791bf9fbf",
+    "user_id": "default_user",
+    "name": "FitPlan Super Athlete",
+    "age": 27,
+    "gender": "Not Specified",
+    "height_cm": 180,
+    "weight_kg": 78,
+    "goal": "muscle_gain",
+    "experience": "intermediate",
+    "activity_level": "moderate",
+    "available_time": 30,
+    "equipment": "dumbbells",
+    "location": "Home Gym",
+    "dietary_preference": "High Protein",
+    "protein_target": 156,
+    "current_streak": 1,
+    "longest_streak": 1,
+    "total_workouts": 1,
+    "total_workout_minutes": 35,
+    "created_at": "2026-10-07T08:45:12.269129+00:00",
+    "updated_at": "2026-10-07T09:35:55.710Z"
+  },
+  "workouts": [
+    {
+      "id": "93091887-4e20-4a6f-a88a-8cc380bb969c",
+      "user_id": "default_user",
+      "workout_date": "2026-10-07",
+      "title": "Beginner Daily Vitality Routine",
+      "goal": "general_fitness",
+      "duration": 30,
+      "rounds": 3,
+      "rest_period": "30 seconds",
+      "experience": "beginner",
+      "estimated_calories": 280,
+      "muscle_group": "Full Body",
+      "exercises": [
+        {
+          "name": "Jumping Jacks",
+          "duration": "30 sec"
+        },
+        {
+          "name": "Bodyweight Squats",
+          "duration": "10 reps"
+        },
+        {
+          "name": "Wall / Knee Push-ups",
+          "duration": "10 reps"
+        },
+        {
+          "name": "Bird Dog",
+          "duration": "10 reps each side"
+        },
+        {
+          "name": "Forearm Plank",
+          "duration": "20 sec"
+        }
+      ],
+      "trainer_tip": "Build consistency and listen to your body while mastering core movement patterns.",
+      "status": "completed",
+      "created_at": "2026-10-07T09:10:22.570Z",
+      "completed_at": "2026-10-07T09:35:52.357Z"
+    },
+    {
+      "id": "febb0a31-290f-4fc8-bc3e-5566fee8aeb8",
+      "user_id": "default_user",
+      "workout_date": "2026-10-07",
+      "title": "Vite Proxy Test Workout",
+      "goal": "muscle_gain",
+      "duration": 20,
+      "rounds": 2,
+      "rest_period": "30s",
+      "experience": "beginner",
+      "estimated_calories": 280,
+      "muscle_group": "Full Body",
+      "exercises": [],
+      "trainer_tip": "Great effort.",
+      "status": "completed",
+      "created_at": "2026-10-07T08:57:14.881Z",
+      "completed_at": "2026-10-07T09:09:20.301Z"
+    },
+    {
+      "id": "9869f2a0-396c-4a93-912e-4cf2422290dd",
+      "user_id": "default_user",
+      "workout_date": "2026-10-07",
+      "title": "Intermediate Power Lift",
+      "goal": "muscle_gain",
+      "duration": 30,
+      "rounds": 3,
+      "rest_period": "45 seconds",
+      "experience": "intermediate",
+      "estimated_calories": 280,
+      "muscle_group": "Full Body",
+      "exercises": [
+        {
+          "name": "Bench Press",
+          "sets": 3,
+          "reps": "10"
+        }
+      ],
+      "trainer_tip": "Keep form strict.",
+      "status": "pending",
+      "created_at": "2026-10-07T08:56:46.909Z"
+    },
+    {
+      "id": "a14984fc-630a-4bc5-9096-56e7e397f746",
+      "user_id": "default_user",
+      "workout_date": "2026-10-07",
+      "title": "Intermediate Hypertrophy Circuit",
+      "goal": "muscle_gain",
+      "duration": 30,
+      "rounds": 3,
+      "rest_period": "45 seconds",
+      "experience": "intermediate",
+      "estimated_calories": 280,
+      "muscle_group": "Full Body",
+      "exercises": [
+        {
+          "name": "Standard Push-ups",
+          "duration": "15 reps"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "duration": "12 reps each leg"
+        },
+        {
+          "name": "Diamond Push-ups",
+          "duration": "10 reps"
+        },
+        {
+          "name": "Walking Lunges",
+          "duration": "14 reps each leg"
+        },
+        {
+          "name": "Extended Plank Hold",
+          "duration": "45 sec"
+        }
+      ],
+      "trainer_tip": "Control the eccentric (lowering) phase for maximum muscle fiber recruitment.",
+      "status": "completed",
+      "created_at": "2026-10-07T08:49:05.832Z",
+      "completed_at": "2026-10-07T08:49:08.628Z"
+    },
+    {
+      "id": "wk_1791362255316_c374dx",
+      "user_id": "default_user",
+      "workout_date": "2026-10-07",
+      "title": "Beginner Muscle Building Blueprint",
+      "goal": "muscle_gain",
+      "duration": 45,
+      "rounds": 4,
+      "rest_period": "45 seconds",
+      "experience": "beginner",
+      "estimated_calories": 280,
+      "muscle_group": "Full Body",
+      "exercises": [
+        {
+          "name": "Knee Push-ups / Incline Push-ups",
+          "duration": "10 reps"
+        },
+        {
+          "name": "Bodyweight Squats (Slow Tempo)",
+          "duration": "12 reps"
+        },
+        {
+          "name": "Bench / Chair Dips",
+          "duration": "10 reps"
+        },
+        {
+          "name": "Glute Bridges (Hold at top)",
+          "duration": "12 reps"
+        },
+        {
+          "name": "Forearm Plank Hold",
+          "duration": "30 sec"
+        }
+      ],
+      "trainer_tip": "Focus on time under tension and squeeze your muscles at the top of each rep.",
+      "recovery_recommendation": "",
+      "status": "pending",
+      "created_at": "2026-10-07T08:37:35.316Z"
+    },
+    {
+      "id": "wk_1791361664749_gldycj",
+      "user_id": "default_user",
+      "workout_date": "2026-10-07",
+      "title": "Intermediate Hypertrophy Circuit",
+      "goal": "muscle_gain",
+      "duration": 30,
+      "rounds": 3,
+      "rest_period": "45 seconds",
+      "experience": "intermediate",
+      "estimated_calories": 280,
+      "muscle_group": "Full Body",
+      "exercises": [
+        {
+          "name": "Standard Push-ups",
+          "duration": "15 reps"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "duration": "12 reps each leg"
+        },
+        {
+          "name": "Diamond Push-ups",
+          "duration": "10 reps"
+        },
+        {
+          "name": "Walking Lunges",
+          "duration": "14 reps each leg"
+        },
+        {
+          "name": "Extended Plank Hold",
+          "duration": "45 sec"
+        }
+      ],
+      "trainer_tip": "Control the eccentric (lowering) phase for maximum muscle fiber recruitment.",
+      "recovery_recommendation": "",
+      "status": "completed",
+      "created_at": "2026-10-07T08:27:44.749Z",
+      "completed_at": "2026-10-07T08:27:47.238Z"
+    },
+    {
+      "id": "wk_1791360966690_1w3guc",
+      "user_id": "default_user",
+      "workout_date": "2026-10-07",
+      "title": "Intermediate Hypertrophy Circuit",
+      "goal": "muscle_gain",
+      "duration": 30,
+      "rounds": 3,
+      "rest_period": "45 seconds",
+      "experience": "intermediate",
+      "estimated_calories": 280,
+      "muscle_group": "Full Body",
+      "exercises": [
+        {
+          "name": "Standard Push-ups",
+          "duration": "15 reps"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "duration": "12 reps each leg"
+        },
+        {
+          "name": "Diamond Push-ups",
+          "duration": "10 reps"
+        },
+        {
+          "name": "Walking Lunges",
+          "duration": "14 reps each leg"
+        },
+        {
+          "name": "Extended Plank Hold",
+          "duration": "45 sec"
+        }
+      ],
+      "trainer_tip": "Control the eccentric (lowering) phase for maximum muscle fiber recruitment.",
+      "recovery_recommendation": "",
+      "status": "completed",
+      "created_at": "2026-10-07T08:16:06.690Z",
+      "completed_at": "2026-10-07T08:16:50.796Z"
+    }
+  ],
+  "workout_completions": [
+    {
+      "id": "comp_1791360996760_485gmq",
+      "user_id": "default_user",
+      "workout_id": "wk_1791360966690_1w3guc",
+      "workout_date": "2026-10-07",
+      "workout_name": "Intermediate Hypertrophy Circuit",
+      "duration_minutes": 30,
+      "calories_burned": 280,
+      "exercises_completed": 5,
+      "notes": "Completed in full session mode",
+      "completed_at": "2026-10-07T08:16:35.493Z"
+    }
+  ],
+  "protein_entries": [
+    {
+      "id": "836be8cf-dd6a-44eb-9515-32052ca427d9",
+      "user_id": "default_user",
+      "entry_date": "2026-10-07",
+      "food_name": "3 idly",
+      "protein_grams": 1,
+      "meal_type": "Breakfast",
+      "time_logged": "03:11 pm",
+      "created_at": "2026-10-07T09:41:06.873Z"
+    },
+    {
+      "id": "afcf1ac8-a3c0-4a62-8dfa-e1d01ea54349",
+      "user_id": "default_user",
+      "entry_date": "2026-10-07",
+      "food_name": "5 egg",
+      "protein_grams": 60,
+      "meal_type": "Breakfast",
+      "time_logged": "02:40 pm",
+      "created_at": "2026-10-07T09:10:06.807Z"
+    },
+    {
+      "id": "5ec70669-28ef-4fe2-af56-140d8d40693e",
+      "user_id": "default_user",
+      "entry_date": "2026-10-07",
+      "food_name": "Quick Boost (+10g)",
+      "protein_grams": 10,
+      "meal_type": "Snack",
+      "time_logged": "02:39 pm",
+      "created_at": "2026-10-07T09:09:35.452Z"
+    },
+    {
+      "id": "prot_1791362193739_tngd52",
+      "user_id": "default_user",
+      "entry_date": "2026-10-07",
+      "food_name": "3 eggs",
+      "protein_grams": 24,
+      "meal_type": "Breakfast",
+      "time_logged": "02:06 pm",
+      "created_at": "2026-10-07T08:36:33.742Z"
+    },
+    {
+      "id": "prot_1791361036084_lvti6t",
+      "user_id": "default_user",
+      "entry_date": "2026-10-07",
+      "food_name": "Grilled Chicken Breast",
+      "protein_grams": 45,
+      "meal_type": "Lunch",
+      "time_logged": "01:47 pm",
+      "created_at": "2026-10-07T08:17:16.097Z"
+    }
+  ],
+  "daily_checkins": [
+    {
+      "id": "c7898525-e75e-46ca-869b-e1a691100ec2",
+      "user_id": "default_user",
+      "checkin_date": "2026-10-07",
+      "feeling": "Good",
+      "energy_level": 4,
+      "soreness_level": 3,
+      "notes": "",
+      "created_at": "2026-10-07T09:34:58.527Z"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach_1791360998177_first_workout",
+      "user_id": "default_user",
+      "achievement_type": "first_workout",
+      "achievement_name": "First Workout",
+      "description": "Completed your very first workout session!",
+      "icon": "⚡",
+      "achieved_at": "2026-10-07T08:16:38.177Z"
+    },
+    {
+      "id": "a6f464e2-2f67-4c54-b5fe-778b49d4dc0b",
+      "user_id": "default_user",
+      "achievement_type": "first_workout",
+      "achievement_name": "First Workout",
+      "description": "Completed your very first workout session!",
+      "icon": "⚡",
+      "achieved_at": "2026-10-07T08:49:08.387Z"
+    }
+  ]
+}
